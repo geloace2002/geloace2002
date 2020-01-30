@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/01/26/15800683423486.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+li {
+	font-size: 100%;
+	float: right;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 15px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: darkblue;
+}
